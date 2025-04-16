@@ -31,7 +31,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları takip edeb
 3.Gerekli bağımlılıkların yüklendiğinden emin olun.
 
 4.app klasörünü çalıştırarak uygulamayı emülatörde veya gerçek cihazda test edin.
+
 📬 İletişim
+
 Herhangi bir öneri ya da geri bildirim için lütfen iletişime geçin:
 
 📧 recep.yesiltepe@mf.karaelmas.edu.tr
