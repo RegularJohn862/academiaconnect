@@ -10,7 +10,7 @@ Bu uygulamanın amacı, Zonguldak Bülent Ecevit Üniversitesi'nde görev yapan 
 - 📬 **İletişim Bilgileri**: Ofis yeri (fakülte ve kat bilgisi), telefon ve e-posta bilgisi
 
 ## 🖼️ Uygulama Görselleri  
-![Görsel](https://github.com/user-attachments/assets/1ab661d8-41a6-4633-9971-f5e9a5c9922b)
+<img src="https://github.com/user-attachments/assets/1ab661d8-41a6-4633-9971-f5e9a5c9922b" width="512" height="768">
 
 
 ## 🛠️ Kullanılan Teknolojiler
