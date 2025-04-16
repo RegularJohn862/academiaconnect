@@ -24,15 +24,16 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları takip edeb
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/AcademiaConnect.git
+   git clone https://github.com/RegularJohn862/AcademiaConnect.git
 
 2.Android Studio ile projeyi açın.
 
 3.Gerekli bağımlılıkların yüklendiğinden emin olun.
 
 4.app klasörünü çalıştırarak uygulamayı emülatörde veya gerçek cihazda test edin.
-
 📬 İletişim
 Herhangi bir öneri ya da geri bildirim için lütfen iletişime geçin:
+
 📧 recep.yesiltepe@mf.karaelmas.edu.tr
-📧 abdurrahman.yılmaz@mf.karaelmas.edu.tr
+
+📧 abdurrahman.yilmaz@mf.karaelmas.edu.tr
